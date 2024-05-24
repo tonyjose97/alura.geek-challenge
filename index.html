@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alura Geek</title>
+    <link rel="stylesheet" href="css/resect.css" />
+    <link rel="stylesheet" href="css/style.css" /> 
+    <link rel="stylesheet" href="css/responsive.css">
+    <!--google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,700;1,400;1,800&family=Raleway:ital,wght@0,300;1,300&family=Sedan+SC&display=swap"rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <main>
+      <header class="header">
+        <h2>aluraGeek</h2>
+      </header>
+      <!--seccion de imagenes-->
+      <div class="container_seccion">
+        <section class="seccion_product">
+          <h1 class="titulo">Mis productos:</h1>
+          <div class="container_product" data-product>
+            <!--<div class="card" data-card>
+                    <div class="image_container">
+                        <img src="https://dcmallio.vtexassets.com/arquivos/ids/326612714-800-800?v=638225363333100000&width=50vh&height=800&aspect=true"
+                        alt="" class="img_card" />
+                    </div>
+                    <div class="container_card">
+                        <h2 class="nombre_producto_card">Jersey del RM</h2>
+                        <div class="info_card">
+                            <p class="precio_card">S/120</p>
+                            <button type="submit" class="card_eliminar" data-id="${id}">
+                                <img src="./imagenes/eliminar.png" alt="" class="icon_eliminar_card" />
+                            </button>
+
+                        </div>
+                    </div>
+                </div> -->
+          </div>
+        </section>
+
+        <!--Formulario-->
+
+        <section class="seccion_form">
+          <h2 class="titulo_form">Agregar productos:</h2>
+
+          <form action="" method="get" data-form class="form">
+            <input
+              type="text"
+              name=""
+              id=""
+              placeholder="nombre del producto"
+              data-name
+            />
+            <spam class="message_error error_name"></spam>
+
+            <input
+              type="text"
+              name=""
+              id=""
+              placeholder="precio del producto"
+              data-price
+            />
+            <spam class="message_error error_price"></spam>
+
+            <input
+              type="text"
+              name=""
+              id=""
+              placeholder="Url de la imagen del producto"
+              data-image
+            />
+            <spam class="message_error error_image"></spam>
+
+            <div class="container_btn_form">
+              <button
+                type="submit"
+                value=""
+                class="boton_enviar"
+                data-boton-enviar
+              >
+                Enviar
+              </button>
+              <button
+                type="reset"
+                value=""
+                class="boton_eliminar"
+                data-boton-limpiar
+              >
+                Limpiar
+              </button>
+            </div>
+          </form>
+        </section>
+      </div>
+    </main>
+    <footer>
+      <img src="" alt="" class="logo-footer" />
+      <p>Desarrollado por Anthonyjcc</p>
+      <p>ALURA-LATAM-2024</p> 
+      <div class="contact">
+        <a href="https://github.com/tonyjose97" target="_blank"> <img src="imagenes/github.png" alt=""  class="icon_contact"></a>
+       <a href="https://www.linkedin.com/in/anthony-carmona-75807a23a/" target="_blank"> <img src="imagenes/linkedin.svg" alt="" class="icon_contact"></a>
+
+      </div>
+    </footer>
+
+    <script src="js/controlers/main.js" type="module"></script>
+    <script src="js/controlers/errorInput.js" type="module"></script>
+  </body>
+</html>
+

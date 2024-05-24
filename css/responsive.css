@@ -1,0 +1,41 @@
+@media (min-width: 768px){
+  body,main{
+    width: 1400px;
+    height: 1200px;
+  }
+  .container_seccion{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem;
+    
+    justify-content: center;
+    width: 100%;
+
+  }.seccion_form{
+  
+    width: 30%;
+    height: 520px;
+    margin: 0;
+  }
+
+  .titulo_form{
+    margin-bottom: 2rem;
+  }
+
+  input{
+    height: 70px;
+  }
+
+  .container_btn_form{
+    width: 100%;
+  }
+
+  .seccion_product{
+    width: 60%;
+  }
+  .container_product{
+    width: 100%;
+    margin: 0 0;
+  }
+
+}

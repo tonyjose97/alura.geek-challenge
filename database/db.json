@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "short del RM",
+      "price": "150",
+      "image": "https://totalsport.pe/wp-content/uploads/2023/12/RMDSH523204-NV2-scaled.jpg",
+      "id": "1"
+    },
+    {
+      "id": "f435",
+      "name": "casaca blanca RM",
+      "image": "https://perufc.com/wp-content/uploads/2022/07/60042-1.jpeg",
+      "price": "120"
+    },
+    {
+      "id": "fcd4",
+      "name": "zapatillas",
+      "image": "https://vans.com.pe/cdn/shop/products/Q5EBA2-ALT3.jpg?v=1664293949&width=493",
+      "price": "299"
+    },
+    {
+      "id": "0cca",
+      "name": "jersey nergo RM",
+      "image": "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0405%2F9807%2F7603%2Fproducts%2FRMCFMZ0135-01_95d4216f-5798-4ec3-ac47-bfff11c0edfa.jpg%3Fv%3D1707138655&w=384&q=50",
+      "price": "150"
+    },
+    {
+      "id": "b50c",
+      "name": "medias negras RM",
+      "image": "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0405%2F9807%2F7603%2Fproducts%2FRMCFMF0069-01.jpg%3Fv%3D1690986704&w=384&q=75",
+      "price": "50"
+    },
+    {
+      "id": "1089",
+      "name": "bufanda doble UCL",
+      "image": "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0405%2F9807%2F7603%2Fproducts%2FRMCFNV0712-01.jpg%3Fv%3D1679388086&w=384&q=75",
+      "price": "60"
+    },
+    {
+      "id": "c6ee",
+      "name": "pantalon RM",
+      "image": "https://shop.realmadrid.com/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0405%2F9807%2F7603%2Fproducts%2FRMCFMP0179-01.jpg%3Fv%3D1707999823&w=384&q=75",
+      "price": "80"
+    }
+  ]
+}
