@@ -25,5 +25,4 @@ Un navegador web actualizado.
 Un servidor web con soporte para Node.js y npm.
 Tener instalado Node.js y npm en tu sistema.
 
-puedes ver el proyecto deployado en el siguiente enlance:
-https://6652e8309bc1775e778876b9--chipper-faloodeh-1b141e.netlify.app/
+
